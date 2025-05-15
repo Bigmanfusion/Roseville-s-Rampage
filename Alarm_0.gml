@@ -1,2 +1,2 @@
-/// @description Delete HitBox
-instance_destroy();
+/// @description Destroy object
+	instance_destroy();
